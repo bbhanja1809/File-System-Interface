@@ -1,2 +1,4 @@
-main:
-	gcc -o main main.c -lpthread
+main: main.c
+	gcc -o main main.c
+clean:
+	rm -f main
