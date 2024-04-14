@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.cxx": "cpp",
+        "*.c++": "cpp",
+        "*.html": "html",
+        "*.c": "c",
+        "time.h": "c"
+    }
+}
